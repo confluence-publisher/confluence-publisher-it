@@ -1,0 +1,2 @@
+2022-03-25 14:45:46,303 WARN [Catalina-utility-1] [index.lucene.snapshot.DefaultLuceneIndexSnapshotManager] findForJournal Error iterating snapshot directory: /var/atlassian/application-data/confluence/shared-home/index-snapshots
+2022-03-25 14:45:48,834 WARN [Catalina-utility-1] [index.lucene.snapshot.DefaultLuceneIndexSnapshotManager] findForJournal Error iterating snapshot directory: /var/atlassian/application-data/confluence/shared-home/index-snapshots
